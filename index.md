@@ -1,4 +1,4 @@
-## Elixir Hints - *Your essential guide to Elixir programming tips and tricks.*
+## Elixir Hints - _Your essential guide to Elixir programming tips and tricks._
 
 ### Hello World
 
@@ -6,14 +6,14 @@
 
 ```elixir
 # hello.exs
-defmodule Greeter do
-  def greet(name) do
-    message = "Hello, " <> name <> "!"
-    IO.puts message
+defmodule Greeter do                      # Define a module named Greeter
+  def greet(name) do                      # Define a function greet that takes one argument (name)
+    message = "Hello, " <> name <> "!"    # Concatenate the greeting message with the provided name
+    IO.puts message                       # Print the message to the console
   end
 end
 
-Greeter.greet("World")
+Greeter.greet("World")                    # Call the greet function with the argument "World"
 ```
 
 #### Output
