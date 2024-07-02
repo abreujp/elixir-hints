@@ -1,4 +1,4 @@
-## Elixir Hints - _Your go-to resource for Elixir programming tips and tricks._
+## Elixir Hints - *Your essential guide to Elixir programming tips and tricks.*
 
 ### Hello World
 
