@@ -1,13 +1,12 @@
 ## Elixir Hints
 
-<!-- To add another card, copy and paste the following div: <div style="flex: 1 1 30%; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; background-color: #fff; box-shadow: 0 1px 3px rgba(27, 31, 35, 0.12); margin-bottom: 20px;"> -->
+<hr>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+### Hello World
 
-  <div style="flex: 1 1 30%; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; background-color: #fff; box-shadow: 0 1px 3px rgba(27, 31, 35, 0.12); margin-bottom: 20px;">
-    <h3>Hello World</h3>
-    <h4>Elixir Code</h4>
-    <pre><code class="language-elixir">
+#### Elixir Code
+
+```elixir
 # hello.exs
 defmodule Greeter do
   def greet(name) do
@@ -17,19 +16,22 @@ defmodule Greeter do
 end
 
 Greeter.greet("world")
-</code></pre>
-<h4>Output</h4>
-<pre><code class="language-shell">
+```
+
+#### Output
+
+```shell
 elixir hello.exs
 Hello, World!
-</code></pre>
+```
 
-  </div>
+<hr>
 
-  <div style="flex: 1 1 30%; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; background-color: #fff; box-shadow: 0 1px 3px rgba(27, 31, 35, 0.12); margin-bottom: 20px;">
-    <h3>Example 2</h3>
-    <h4>Elixir Code</h4>
-    <pre><code class="language-elixir">
+### Example 2
+
+#### Elixir Code
+
+```elixir
 # another.exs
 defmodule Example do
   def hello do
@@ -38,19 +40,22 @@ defmodule Example do
 end
 
 Example.hello()
-</code></pre>
-<h4>Output</h4>
-<pre><code class="language-shell">
+```
+
+#### Output
+
+```shell
 elixir another.exs
 Hello, Example!
-</code></pre>
+```
 
-  </div>
+<hr>
 
-  <div style="flex: 1 1 30%; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; background-color: #fff; box-shadow: 0 1px 3px rgba(27, 31, 35, 0.12); margin-bottom: 20px;">
-    <h3>Example 3</h3>
-    <h4>Elixir Code</h4>
-    <pre><code class="language-elixir">
+### Example 3
+
+#### Elixir Code
+
+```elixir
 # yet_another.exs
 defmodule AnotherExample do
   def greet do
@@ -59,13 +64,13 @@ defmodule AnotherExample do
 end
 
 AnotherExample.greet()
-</code></pre>
-<h4>Output</h4>
-<pre><code class="language-shell">
+```
+
+#### Output
+
+```shell
 elixir yet_another.exs
 Hello, Another Example!
-</code></pre>
+```
 
-  </div>
-
-</div>
+<hr>
