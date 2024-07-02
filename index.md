@@ -1,7 +1,5 @@
 ## Elixir Hints
 
-<hr>
-
 ### Hello World
 
 #### Elixir Code
