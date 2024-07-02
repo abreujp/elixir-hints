@@ -1,7 +1,5 @@
 ## Elixir Hints
 
-<hr>
-
 <!-- To add another card, copy and paste the following div: <div style="flex: 1 1 30%; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; background-color: #fff; box-shadow: 0 1px 3px rgba(27, 31, 35, 0.12); margin-bottom: 20px;"> -->
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
@@ -71,5 +69,3 @@ Hello, Another Example!
   </div>
 
 </div>
-
-<hr>
