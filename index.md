@@ -13,7 +13,7 @@ defmodule Greeter do
   end
 end
 
-Greeter.greet("world")
+Greeter.greet("World")
 ```
 
 #### Output
