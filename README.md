@@ -1,6 +1,6 @@
-# Elixir Hints
+# [Elixir Hints](https://abreujp.github.io/elixir-hints/)
 
-Welcome to **Elixir Hints**, a repository dedicated to providing helpful hints and tips for programming in Elixir. This project is designed to be a collection of small, easy-to-understand code examples that can help both beginners and experienced developers enhance their understanding and skills in Elixir.
+Welcome to **[Elixir Hints](https://abreujp.github.io/elixir-hints/)**, a repository dedicated to providing helpful hints and tips for programming in Elixir. This project is designed to be a collection of small, easy-to-understand code examples that can help both beginners and experienced developers enhance their understanding and skills in Elixir.
 
 ## About the Project
 
