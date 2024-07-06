@@ -1,4 +1,4 @@
-## :mage: Elixir Hints - _Your essential guide to Elixir programming tips and tricks._
+## 🌟 Elixir Hints - _Your essential guide to Elixir programming tips and tricks._
 
 ### :earth_africa: Hello World
 
